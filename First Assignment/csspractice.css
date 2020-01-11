@@ -1,0 +1,22 @@
+img{ 
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+.backgroundinfo{
+    background: black;
+    color: aquamarine
+}
+
+#secondparagraph{
+    background: black;
+    color: aquamarine;
+}
+
+.addendum{
+    font-size: small;
+}
+#thirdparagraph{
+    background-color: darkblue;
+    color: red;
+}
